@@ -44,7 +44,7 @@
       r1 r r2 r8 re do sib la sib do re mib4 fad
        
       sol8[ fa!16 mib] re8[ do] sib4 la r sib la re r sol, fa sib( sib?8)[ la16 sol] la8. la16 sib4 r |
-      r1 r8 mib re do sib la sol fa mib4 do reb2 do4 r r2 |
+      r1 r8 mib re do sib la sol fa mib4 do re2 do4 r r2 |
       r1 r2 r8 do' re mib fa fa fa fa mib re r4 r1 
       
       r1 sol2 fa mib re do4. do8 sib4 r |

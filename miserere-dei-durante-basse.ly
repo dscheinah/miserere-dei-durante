@@ -17,7 +17,7 @@
       \set Staff.shortVocalName = \markup \smallCaps B
       \tempo "Lento"
       % page 1:
-      do2 fa, sib mib, sib' sib sol sol4 r r1 r r r
+      do2 fa, sib mib, la la sol sol4 r r1 r r r
       r r2 sol do, fa sib, mib mib? re re4 r r2 r1 r r r r r2 r8 sol sol fa
       mib4 mib r8 do' do sib la4 sib8 sib fa2 sib,4 r4 r2 r8 lab' lab sol fa4 mi! fa sol lab sol fa fad8 fad sol2 do,8 do' do sib lab4  mi! fa sol lab sol fa fad8 fad sol2 do,4 r r2
       r1 r r2 sol' do,8 do do do fa2 sib,8 sib sib sib mib4 mib re re r2 r1 r2 la'2 re,4 r sol2

@@ -39,7 +39,7 @@
       r4 la8 la la8. la16 la4 r8 la la la la4 la r1 r1  
       
       r2 r4 la--^"[Solo]" (la) sol-- sol-- fa-- fa-- mi-- fa-- re'-- ( re) do-- do-- sib-- |
-      sib?-- la-- sib!-- r r2 r4 la8^ "[Tutti]" sib re4 sib sib la sib1 \bar "||"
+      sib?-- la-- sib!-- r r2 r4 la8^ "[Tutti]" sib do4 sib sib la sib1 \bar "||"
       \tempo "Andante"
       r1 r r2 r8 sib la sol fad sol la sib do4 do
        

@@ -19,20 +19,20 @@
       % page 1:
       sol2 lab (lab4) sol8 [fa] sol2 (sol4) fa8 [mib] fa2 mib re4 r r1 r r r
       r1 r2 sib' (sib4) la8 [sol]  la2 (la4)  sol8 [fad]  sol2 sol sol fad4 r r2 r1 r r r r r8 fad fad fad sol4 sol
-      r8 sib sib si  do2 (fa,4) sib8 sib sib4 la sib r r2 r1 r8 do do do do4 sib lab la8 la re, [mib16 fa] sol4 sol8 sol sol sol lab4 sol fa8 [la] sol4 fa sol lab la8 la sol2 sol4 r r2 \bar "||"
+      r8 sib sib si  do2 (fa,4) sib8 sib sib4 la sib r r2 r1 r8 do do do do4 sib lab la8 la re, [mib16 fa] sol4 sol8 sol sol sol lab4 sol fa8 [lab] sol4 fa sol lab la8 la sol2 sol4 r r2 \bar "||"
       \tempo "un poco andante"
       mib4. mib8 re re mib fa mib4 mib8 mib re sol sol fa mib4 mib8 mib re4 re r1 r fad2 sol8 re' sib sol mi!2 fa8 do' la fa re4. re8 dod4 dod r8 fa fa mi re4 re
       % page 5 :
       r8 mi mi mi fa [sol] la4 (la8) [sib16 la sol8 fad] sol4 sol fad re sol2 (sol8) [fad16 mi!] fad!4 sol4 r r1 r2 sol4. sol8 fad fad [sol] la sol4 r r2 sib8 sib sib la16 [sol] fad4 fad sol4. fad!16 [sol] la4 r r2
       r4 re, (mib) fad sol sol2 fad4 r la2 sol4 (sol) fad sol r r8 sol sol sol do4 si! do sol r2 sol sol sol4 r r2 sol2 sol
        sol8 sol sol sol sol4 fa fa mib re re do1 \bar "||" \tempo "Largo"  la'4.^"[Solo]" la8 sold sold la si la4 sold la2 sold8 mi fad sold! la2 sold4 sold8^"[Tutti]" la si4 la sold sold r sold!8 la si4 la sold la (la) sold la r
-      r1 fa2^"[Solo]" mi8 mi fa la fa2 mi8 la la sol fa fa16 mi fa4 mi la8^"[Tutti]" la la4 la la la r la8 la la4 la8 la la4 la r2 r1 r r r4 la4^"[Tutti]" la la r8 la la la la2
+      r1 fa2^"[Solo]" mi8 mi fa sol fa2 mi8 la la sol fa fa16 mi fa4 mi la8^"[Tutti]" la la4 la la la r la8 la la4 la8 la la4 la r2 r1 r r r4 la4^"[Tutti]" la la r8 la la la la2
        la4. sib8 la2 la4 r r2 r1 r4 la2 si!4 do2 r r4 sol8 sol sol4 sol r2 r4 re8 re mib4 fa sol8. sol16 sol4 r2 r4 sol8 sol lab4 sib lab8. lab16 lab4 r1 r4 do do sib
       % page 10 :
       lab4. lab8 sol4 r r1 r2 r8 do8 do sib  lab4 lab8 lab sol sol r4 r fa8 sol lab4 sol fa la!8 la sib4 la! r fa8 sol16 [la] sib4 la r fa8 sol16 [la] sib4 la r2 r4 fa8 fa fa2 fa4 r
       r4 fa8 fa fa8. fa16 fa4 sib8 sib r4 r2 r1 r1 sib4 sib8 sib la4 sib sib? la sib r r1 r1 r2 sib4 sib8 sib la [fa] fa4 fa2 fa fa4 r \fermata
       r2 r8 sol sol sol fad4 r r8 fad! fad sol16[ la] sol4 r r8 si! si do16[ re] do4 r r8 lab sol4 sol r r8 la la sib16[ do] sib4 r r8 sol fa4 fa r lab lab sol8 sol r4 sib sib la!8 la r4 r8 la la sib16[ do]
-      sib?4 r r8 si si do16[ re] do4 r r8  mi, mi fa16[ sol] fa8 fa r4 r8 mi mi fa16[ sol] fa8 la re, sib' la2 sol4 r r8 la la la la la r4 r8 la la la la la fa sib la2 la4 r r2 \bar "||" \tempo "Andante"  r1 r1
+      sib?4 r r8 si si do16[ re] do4 r r8  mi, mi fa16[ sol] fa8 fa r4 r8 mi mi fa16[ sol] fa8 la re, sib' la2 la4 r r8 la la la la la r4 r8 la la la la la fa sib la2 la4 r r2 \bar "||" \tempo "Andante"  r1 r1
       r1 r r r r r r2 r8 sol sol sol fad fad r4 r8 fad fad fad sol sol r4 r8 sol sol sol sol sol r4 r sib
       la4 r r la sib8 fa fa fa sib2 sol4. la16[ sol] fad8 re sol4 sol fad sol r r8 sib sib sib la la r4 r la la r r8 sol sol sol sol2 fad8[ re] sol2 fad4 sol r r2 r1 \bar "||"
     
