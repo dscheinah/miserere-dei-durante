@@ -24,9 +24,9 @@
        re4 re re8. re16 re4 do fa fa8. fa16 mib4 re re r2 r4 re do8 re16 mib fa8 mib! re re r sib do8. do16 do8 do sib4 sib sib8 sib16 sib la8 la sib sib r re do8. do16 do8 do re4 r r2 r1
        fa4 fa fa8 fa16 fa fa8. fa16 mi4 do8 do re4 mi fa fa r2 r4 sib, do8 re16 mib fa8 mib! re sib fa'4 fa mi! fa re mib8[ do] fa[ fa,] sib4 r r2 r4 mib fa8[ re] sol[ sol,] do4 r r2
        r4 do re8 mib16 fa sol8 fa mib do sol'4 sol fad sol r r2 r4 mib2 re8[ do] sib sol sol'4 dod,2 re4 r r re mib4 re do re mib2 re re4. re8 re2 r4 re4 re re8 re do4 fa fa mib
-       re4 re r re re do sib4. sib8 do4 do fa mib8 mib re4 do16 [re mib do] re4 do16 [re mi do] re4 do16 [re mib do] re2 do8 [re] mib4 re re sol fa8 fa mib4 re16 [mib fa re] mib4 re16 [mib fa re] mib4 re16 [mib fa re] mib4 sol16 [mib re do] re2 do4 r \fermata \tempo "Largo" la2
+       re4 re r re re do sib4. sib8 do4 do fa mib8 mib re4 do16 [re mib do] re4 do16 [re mib do] re4 do16 [re mib do] re2 do8 [re] mib4 re re sol fa8 fa mib4 re16 [mib fa re] mib4 re16 [mib fa re] mib4 re16 [mib fa re] mib4 sol16 [mib re do] re2 do4 r \fermata \tempo "Largo" la2
        la4 la8 la sib4 r \fermata si!2. si8 si do4 r \fermata dod2( dod4) dod8 dod re4 fa( fa8) mi16[ re] dod8 dod16 dod re8[ do] sib4 la fa'4. mi16 re dod8 dod re[ do!] sib4  la r\fermata r1 r4 fa'4. sol16[ fa] mi8 re16 dod re8[ do] sib4 la fa'( fa8) sol16[ fa] mi8 re16[ dod] re8 do sib4 
-       la4 r \fermata r2 r2 r4 r \fermata fa'4 re8 fa mi4 mi fa fa mi mi8 mi fa4 mi8 re re4 dod re r r2 r fa4 mi8[ re] dod4 dod r2 r4 r8 la8 fa'4 mi8 re dod4 dod r2 r la'4  la8 la mi4 mi fa fa
+       la4 r \fermata r2 r2 r4 r \fermata fa'4 re8 fa mi4 mi fa fa mi mi8 mi fa4 mi8 re re4 dod re r r2 r fa4 mi8[ re] dod4 dod r2 r4 r8 la8 fa'4 mi8 re dod4 dod r2 r fa4  fa8 fa mi4 mi fa fa
        mi4 mi8 mi re4 re8 re la2 la4 re re re8 re re4 dod re r r2 \fermata \bar "||" 
       
       %r \fermata

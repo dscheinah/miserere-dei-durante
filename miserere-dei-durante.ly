@@ -26,10 +26,6 @@
 \book {
   \score {
     \new ChoirStaff <<
-      \override Score.BarNumber.break-visibility = #end-of-line-invisible
-      \override Score.SpacingSpanner.strict-note-spacing = ##t
-      \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
-      
       \new Staff {
         \include "./miserere-dei-durante-soprane1.ly"
       }
@@ -54,9 +50,6 @@
      indent = 0
     }
     \new ChoirStaff <<
-      \override Score.BarNumber.break-visibility = #end-of-line-invisible
-      \override Score.SpacingSpanner.strict-note-spacing = ##t
-      \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
       \new Staff {
         \include "./miserere-dei-durante-alto-153.ly"
       }
@@ -72,9 +65,6 @@
      indent = 0
     }
     \new ChoirStaff <<
-      \override Score.BarNumber.break-visibility = #end-of-line-invisible
-      \override Score.SpacingSpanner.strict-note-spacing = ##t
-      \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
       \new Staff {
         \include "./miserere-dei-durante-soprane1-187.ly"
       }
@@ -90,9 +80,6 @@
      indent = 0
     }
     \new ChoirStaff <<
-      \override Score.BarNumber.break-visibility = #end-of-line-invisible
-      \override Score.SpacingSpanner.strict-note-spacing = ##t
-      \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
       \new Staff {
         \include "./miserere-dei-durante-soprane1-205.ly"
       }
@@ -117,9 +104,6 @@
      indent = 0
     }
     \new ChoirStaff <<
-      \override Score.BarNumber.break-visibility = #end-of-line-invisible
-      \override Score.SpacingSpanner.strict-note-spacing = ##t
-      \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
       \new Staff {
         \include "./miserere-dei-durante-alto-271.ly"
       }
@@ -138,9 +122,6 @@
      indent = 0     
     }
     \new ChoirStaff <<
-      \override Score.BarNumber.break-visibility = #end-of-line-invisible
-      \override Score.SpacingSpanner.strict-note-spacing = ##t
-      \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
       \new Staff {
         \include "./miserere-dei-durante-soprane1-317.ly"
       }

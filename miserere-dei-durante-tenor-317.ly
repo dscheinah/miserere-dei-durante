@@ -39,7 +39,7 @@
       fa2 mi4 r re'-- mi-- fa-- la,-- sib-- do-- fa,-- r
       r1 r2 r4 fa'8^"[Tutti]" fa fa4 mi fa2 (fa8) [ do re sib] do4. do8 sib1 \bar "||"
       \tempo "Andante"
-      r8 mib8[ mi dod] re re[ do si!] do do[ sib la] sib[ sib] sib[ do16 re] mib4. mi8 re4 r r1
+      r8 mib8[ re dod] re re[ do si!] do do[ sib la] sib[ sib] sib[ do16 re] mib4. mib8 re4 r r1
        
       r1 sol2 fa mib re do4. do8 sib4 r |
       r2 r8 sol la sib do do do do re4 si! do8 do mib4 re sol r do, sib mib 

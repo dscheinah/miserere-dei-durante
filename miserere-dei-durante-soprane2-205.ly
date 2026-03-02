@@ -23,7 +23,7 @@
       la4 do8 do do do16 do do8. do16 do4 mi8 mi fa4 sol do, do r2 r1 r r4 sib do8 re16 mib fa8 mib re sib mib4 mib re mib do re8 mib!16 fa sol8  fa mib do do4 do si!
       do4 mib fa8[ re] sol[ sol,] do4 r r2 r4 sib do8[ la] re[ re,] sol4 r r2 r4 sol'2 fad8[ mib] re re r4 sib2 la1 (la2) (la4) sib la4. la8 sol2 r1 r
       r2 r4 sib sib?2. sol4 la r r la sib  do8 do sib4 do sib do sib2 (sib4) la sib r r si! do re8 re do4 re do re do2 (do4) si! do r \fermata  \tempo "Largo" r2  \bar "||"
-      do4 do8 do sib4 r \fermata  r2 re4 re8 re do4 r \fermata  r2 mi4 mi8 mi re4 r r1 r1 r1 \fermata la2 (la4) sol8. sol16 la4 r r2 r1 r1
+      do4 do8 do sib4 r \fermata  r2 re4 re8 re do4 r \fermata  r2 mi4 mi8 mi re4 r r1 r1 r1 \fermata la2 (la4) sold8. sold16 la4 r r2 r1 r1
       r4  r \fermata re2( re4) dod8. dod16 re4  r \fermata re fa8 re mi4 la, fa'4. mi16[ re] mi4 la,8 la la4 sib8 re la2 la4 la2 sol8 sol la4 la r2 r4 la2 sol8 sol la4 la r2 r4 la2 sol8 sol la4 la la' fa8 re dod4 dod la'4 fa8 [re] 
       dod4 dod8 dod re4 sib8 sib la2 la4 la sib re8 re la2 la4 r r2 \fermata \bar "||"
     }
@@ -37,7 +37,7 @@ Red -- de mi -- hi lae -- ti -- ti -- am sa -- lu -- ta -- ris tu -- i
 
 et spi -- ri -- tu prin -- ci -- pa -- li con -- fir -- ma me, 
 et spi -- ri -- tu prin -- ci -- pa -- li con -- fir -- ma me, 
-con -- fir -- ma me, con -- fir -- ma me, con -- fir -- ma me, con __ _ _ fir -- ma me.
+con -- fir -- ma me, con -- fir -- ma me, con __ _ fir -- ma, con __ _ _ fir -- ma me.
 
 et im -- pi -- i ad te con -- ver -- ten __ _ _ _ _ _ tur, ad te con -- ver -- ten __ _ _ _ _ _ tur
 

@@ -24,7 +24,7 @@
       re4.^"[Tutti]" re8 re2 r4 re8 do si!4 si si si do4. do8 si4 si sol mi |
       si'8. si16 si4 r2 r4 si8 la sol4 mi8 re do4 do si2
       
-      si1 (si4.) si8 mi2  la4. la8 la2 r4 la8 sol fad4 fad |
+      (si1) (si4.) si8 mi2  la4. la8 la2 r4 la8 sol fad4 fad |
       fad? fad sol4. sol8 fad4 fad re si fad'8. fad16 fad4 r2 r4 fad8 mi re4 si8 si' |
       sol4 sol fad2 (fad?1)(fad?4.)  fad8 si2 \bar "||"
       
