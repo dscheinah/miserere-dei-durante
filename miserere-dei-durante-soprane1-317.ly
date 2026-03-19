@@ -26,7 +26,7 @@
       si red mi4. mi8 red4 r r sol8  fad mi4 mi8 mi si4. dod8 |
      
       red4 mi fad mi si4. la8 sold2 r mi'4. mi8 mi2 r4 fad8 fad |
-      fad? fad fad fad re4 si fad' r r fad8[ si,] dod4 fad fad mi8. mib16 fad4 r r2 |
+      fad? fad fad fad re4 si fad' r r fad8[ si,] dod4 fad fad mi8. mi16 fad4 r r2 |
       r r4 fad8 fad fad4  fad8 fad fad4 re8 [si]  fad4. fad8 fad2 \bar "||"
        
      \tempo "Largo"

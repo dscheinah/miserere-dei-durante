@@ -34,7 +34,7 @@
       
       mi4 mi r^"[Solo]" mi8 mi red2 mi4 r si8 si si si do2 si4 r r2 |
       r1 r2  sib4-- sib-- la-- la-- sol-- sol-- fa-- do'8^"[Tutti]" do do8. do16 do4 |
-      r4 mi8 mi la,8. la16 la4 r8 re fa re la'4 la, r^"[Solo]" dod8 dod re2 dod4 r fa,8 fa fa fa
+      r4 mi8 mi la,8. la16 la4 r8 re fa re la'4 la, r^"[Solo]" dod8 dod re2 dod4 r mi,8 mi mi mi
       
       fa2 mi4 r re'-- mi-- fa-- la,-- sib-- do-- fa,-- r
       r1 r2 r4 fa'8^"[Tutti]" fa fa4 mi fa2 (fa8) [ do re sib] do4. do8 sib1 \bar "||"

@@ -28,7 +28,7 @@
       re4 r4 r2 r8 re8 re re re4 do sib la sib!2 la4. la8 sol si! si si do4 re do re r si (do) re sol, do2 si4 do8 sol' sol sol sol4 fa fa mib re4. re8
       do4 r r2 r4 do re fa mi!1 \bar "||" \tempo "Largo" do4.^"[Solo]" do8 si si do re do4 si do2 si8 mi mi re do2 si4 si8^"[Tutti]" si si4 do si si r si8 si si4 do si mi8 [re] do4 si la r
       r1 r r r2 r4 mi'8^"[Tutti]" re dod4 fa mi mi r mi8 re dod4 fa8 fa mi4 mi r2 r1 r r r4 mi^"[Tutti]" mi re r8 mi mi mi mi4 re
-      dod8 [la] re [sol] fa [mi16 re] mi4^tr re4 r r2 re1 do2 r r4 mib2 (mi4) re2 r r4 sol8 fa mib4 re r2 r4 sol8 fa mib4 re do8. do16 do4 r2 r4 do reb mi! fa4. fa8 mi!4 r r2
+      dod8 [la] re [sol] fa [mi16 re] mi4^tr re4 r r2 re1 do2 r r4 mib2 (mib4) re2 r r4 sol8 fa mib4 re r2 r4 sol8 fa mib4 re do8. do16 do4 r2 r4 do reb mi! fa4. fa8 mi!4 r r2
       % page 10 :
      r2 r8 do do do reb2 mi! fa mi!4 r r2 r8 mi fa sol do,4 reb8 reb do2 do4 r r do8 do reb4 reb r4 do8 do reb4 reb r do8 do reb4 reb r reb!8 reb mib2 reb4 r
      r4 reb8 reb mib8. mib16  mib4 reb8 reb r4 solb2 fa4. sib8 mib,4. mib8 reb2 do sib4 r r2 r1 solb'2 fa4. sib?8 mib,4. mib8 reb2 do2 sib4 r r8 la la la sib4 sib sib?8 [la16 sol] la4 sib! r \fermata \bar "|."
