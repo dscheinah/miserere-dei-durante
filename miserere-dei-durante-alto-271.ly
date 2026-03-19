@@ -24,7 +24,7 @@
       \tempo "Andante"
       % page 26:
       r2^"[Solo]" si ( si8) [ la16 sold] la8 [ do] re2( re8)[ do16 si] do8 [ si16 la] si4. si8 la4 r fad2
-      ( fad8)[ mi16 red?] mi8[ sol] la2( la8)[ sol16 fad?] sol8[ fad!16 mi] fad2 (fad8)[ re16 red]  mi8[ sol] la2( la8)[ sol16 fad] sol8[ fad16 mi] fad!4. fad8 \break
+      ( fad8)[ mi16 red?] mi8[ sol] la2( la8)[ sol16 fad?] sol8[ fad!16 mi] fad2 (fad8)[ mi16 red]  mi8[ sol] la2( la8)[ sol16 fad] sol8[ fad16 mi] fad!4. fad8
       
       mi4 sol8 sol16 sol fad8. fad16 fad4 fad? fad8 fad fad8. fad16 fad4 r1
       r r4 si8 la sol sol16 sol sol8 sold? la la la2 sol!4

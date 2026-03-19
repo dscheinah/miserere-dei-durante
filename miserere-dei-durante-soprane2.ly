@@ -24,7 +24,7 @@
       r1 r r2 si! do8 do do sib la2 sib8 sib sib la sol4 sol fad fad r8 sib sib sib sib [do16 sib la8 sol] la la la la la [sib16 la sol8] sold la4 la la'8 [fa] re4 r2
       % page 5 :
       sol8 [mi] do4 r8 do do do re4 re sol2 re8 re re re re4 mib re2 re4 r r2 sol,4.  sol8 fad fad [sol] la sol4 r r2 sib4. sib8 la4 fad8 fad sol4 r r2 sib8 sib sib la16 [sol] fad4 fad sol2
-      fad4 r r2 r4 re' mib (fad) sol r r2 r1 r8 sol sol fa mib4 re mib? re r2 r4 mib8 [do] mib4 sol, sol8  mib' mib mib mib4 re re do do si!
+      fad4 r r2 r4 re' mib (fad) sol r r2 r1 r8 sol sol fa mib4 re mib? re r2 r4 mib8 [do] re4 sol, sol8  mib' mib mib mib4 re re do do si!
       do r r2 sol2 sol sol1 \bar "||" \tempo "Largo" r1 r r r4 mi'8^"[Tutti]" mi mi4 do8 [re] mi4 mi r mi8 mi mi4 do8 [re] mi4 la, mi2 mi4 r
       r1 r r r2 r4 dod'8^"[Tutti]" si la4 re dod dod r dod8 si la4 re8 re dod4 dod r2 r1 r r r4 mi^"[Tutti]" dod sol r8 mi' mi re dod4 la
       r8 mi' [fa re] la2 la4 r r2 sib1 la2 r r4 do2 (do4) si!2 r2 r4 si?8 si do4 sol r2 r4 mib'8 re do4 si! do8. do16 do4 r2 r4 do do sib lab4. lab8 sol4 r r2
@@ -35,7 +35,7 @@
       r2  r8 sib sib sib la4 r r8 la la sol16[ fad] sol4 r r8 re' re do16 [si!] do4 r r8 do do [si!] do4 r r8 do do sib16 [la] sib4 r r8 sib! sib [la] sib4 r r2 r1 r2 r8 do do sib16 [la]
       sib4 r r8 re re do16 [si!] do4 r r8 mi mi re16 [dod] re8 re r4 r8 mi mi re16 [dod] re8 dod re re re4 dod!  re r r8  dod8 dod re16[ mi] re8 re r4 r8 dod dod re16[[ mi]] re8 dod re re la2 la4 r r2 \bar "||" \tempo "Andante"  r2 r8 sib8 sib la16 sol fad2( fad8) [sol la sol16 fad]
       sol8 sol r4 r si!8 si do do r4 r4 do8 sib la16 la la8 r4 r8 la la la sib sib r4 r2 sol4. la16 sol fad8 sol la [sol16 fad!] sol8 [la sib! la16 sol] sol4 fad r2 r8 sib sib sib la la r4 r8 la la la sib sib r4 r8 si! si si do do r4 r do
-      do4 r r do sib r r8 sib! sib sib sib?4 sol re re'8[ do] sib [la16 sol] re'4 re r r8 re re re re re r4 r la sib r r8 sib sib sib sol4. la8 la8. [sol16 la] sib8[ do] sib[ do] re4 re r r2 r1  \bar "||"
+      do4 r r do sib r r8 sib! sib sib sib?4 sol re re'8[ do] sib [la16 sol] re'4 re r r8 re re re re re r4 r la sib r r8 sib sib sib sol4. la8 la8. [sol32 la] sib8[ do] sib[ do] re4 re r r2 r1  \bar "||"
 }
     
 \addlyrics {
