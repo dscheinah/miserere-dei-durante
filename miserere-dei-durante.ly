@@ -7,6 +7,7 @@
   title = "Miserere mei, Deus"
   composer = "Francesco Durante"
   tagline = \markup {
+    \vspace #2
     https://github.com/anotherboz/miserere-dei-durante.git with
     \line { LilyPond \simple #(lilypond-version) } 
     for International Music Score Library Project
