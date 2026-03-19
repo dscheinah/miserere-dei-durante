@@ -22,7 +22,7 @@
  
       \tempo "Andante"
       % page 26:
-      la2^"[Solo]" la8 (sold16) [la] si8 [mi,] do'2 (do8) [si16 la] si8 [la] sold4 la mi4. mi8 la4 r r2 |
+      la2^"[Solo]" (la8) sold16 [la] si8 [mi,] do'2 (do8) [si16 la] si8 [la] sold4 la mi4. mi8 la4 r r2 |
       r1 r4 mi (mi8) [red16 mi] fad8 [si,] sol'2 (sol8) [fad16 mi] fad!8 [mi] red4 mi si4. si8 \break
       
       mi4 mi8 mi16 mi si'8. si16 si4 do do8 do si8. si16 si4 r si8 la sol sol16 sol sol8 sold |
