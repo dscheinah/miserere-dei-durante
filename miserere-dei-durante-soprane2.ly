@@ -18,7 +18,7 @@
       \tempo "Lento"
       % page 1:
       r1 r r r2 re2 (re4) do8 [si!] do2 (do4) sib8 [la] sib2 (sib4) la8 [sol] la2 (la8) [sol16 fad] sol8 [re'] mib2
-      mib8 [re16 do] sib8 [la] sib [sib] do [sib16 la] sol4 fad sol r r1 r r la'2. sol8 [fad] sol2. fa8 [mi] fa2. mi!8 [re] mi2 (mi8) [ re16 dod ] re8 [ do] sib2 (sib8) [la16 sol] fa8 [mi] fa [mi16 fa] sol8 [fa16 mi] re4 dod re r r2
+      (mib8) [re16 do] sib8 [la] sib [sib] do [sib16 la] sol4 fad sol r r1 r r la'2. sol8 [fad] sol2. fa8 [mi] fa2. mi!8 [re] mi2 (mi8) [ re16 dod ] re8 [ do] sib2 (sib8) [la16 sol] fa8 [mi] fa [mi16 fa] sol8 [fa16 mi] re4 dod re r r2
       r1 r r8 sib' sib lab sol4 sol r8 do do sib lab4 sol lab sib? lab8 [fa'] mi!4 fa do8 do do4 si! do r r8 do do sib lab [fa'] mi!4 fa8 [do] sib4 lab do8 do sol2 sol4 r r2 \bar "||"
       \tempo "un poco andante"
       r1 r r2 si! do8 do do sib la2 sib8 sib sib la sol4 sol fad fad r8 sib sib sib sib [do16 sib la8 sol] la la la la la [sib16 la sol8] sold la4 la la'8 [fa] re4 r2
@@ -27,7 +27,7 @@
       fad4 r r2 r4 re' mib (fad) sol r r2 r1 r8 sol sol fa mib4 re mib? re r2 r4 mib8 [do] mib4 sol, sol8  mib' mib mib mib4 re re do do si!
       do r r2 sol2 sol sol1 \bar "||" \tempo "Largo" r1 r r r4 mi'8^"[Tutti]" mi mi4 do8 [re] mi4 mi r mi8 mi mi4 do8 [re] mi4 la, mi2 mi4 r
       r1 r r r2 r4 dod'8^"[Tutti]" si la4 re dod dod r dod8 si la4 re8 re dod4 dod r2 r1 r r r4 mi^"[Tutti]" dod sol r8 mi' mi re dod4 la
-      r8 mi' [fa re] la2 la4 r r2 sib1 la2 r r4 do2 do4 si!2 r2 r4 si?8 si do4 sol r2 r4 mib'8 re do4 si! do8. do16 do4 r2 r4 do do sib lab4. lab8 sol4 r r2
+      r8 mi' [fa re] la2 la4 r r2 sib1 la2 r r4 do2 (do4) si!2 r2 r4 si?8 si do4 sol r2 r4 mib'8 re do4 si! do8. do16 do4 r2 r4 do do sib lab4. lab8 sol4 r r2
       % page 10 :
       r2 r8 do do do do2 sib lab sol4 r r2 r8 do do sib lab4 sib8 lab!16 [sol] do4. sib8 la!4 r r la8 la sib4 sib r la8 la sib4 sib r la8 la sib4 sib r sib8 sib do2 sib?4 r
       r4 sib8 sib do8. do16 do4 sib8 sib fa'2 mib8 mib mib?4 reb2 do4 ( do) sib2 la4 sib4 r r2 r r4 fa'4 (fa) mib8 mib mib4 reb (reb4) do2 sib4 (sib)  la sib r r8 fa' fa mib reb4 reb do2 sib4 r \fermata \bar "|."  
@@ -40,7 +40,7 @@
     
 \addlyrics {
 % Mesure 1
-Mi -- se re -- re me -- i, De __ _ _ _ _ _ _ _ _ us
+Mi -- se re -- re me -- i, De __ _ _ _ _ _ _ _ us
 Mi -- se re -- re me --  i, De __ _ _ _ _ _ _ _ us
 se -- cun -- dum ma -- gnam mi -- se -- ri -- cor __ _ _ _ _ _ _  di -- am tu __ _ am
 mi -- se -- ri -- cor __ _ _ _ _ di -- am tu -- am
@@ -57,7 +57,7 @@ et pec -- ca -- tum me -- um con -- tra me est sem __ _ _ per
 ut iu -- sti -- fi -- ce -- ris in ser -- mo -- ni -- bus tu -- is
 % Mesure 79
 et vin -- cas cum iu -- di -- ca __ _ _ _ ris
-Ec -- ce, ec __ _ ce ec -- ce en -- im in i -- ni -- qui -- ta -- ti -- bus 
+Ec -- ce, ec -- ce ec -- ce en -- im in i -- ni -- qui -- ta -- ti -- bus 
 con -- ce __ _ _ ptus sum
 % Mesure 93
 et in pec -- ca __ _ _ tis con -- ce -- pit me ma -- ter me __ _ a

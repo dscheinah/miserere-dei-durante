@@ -27,14 +27,14 @@
       r4 re, (mib) fad sol sol2 fad4 r la2 sol4 (sol) fad sol r r8 sol sol sol do4 si! do sol r2 sol sol sol4 r r2 sol2 sol
        sol8 sol sol sol sol4 fa fa mib re re do1 \bar "||" \tempo "Largo"  la'4.^"[Solo]" la8 sold sold la si la4 sold la2 sold8 mi fad sold! la2 sold4 sold8^"[Tutti]" la si4 la sold sold r sold!8 la si4 la sold la (la) sold la r
       r1 fa2^"[Solo]" mi8 mi fa sol fa2 mi8 la la sol fa fa16 mi fa4 mi la8^"[Tutti]" la la4 la la la r la8 la la4 la8 la la4 la r2 r1 r r r4 la4^"[Tutti]" la la r8 la la la la2
-       la4. sib8 la2 la4 r r2 r1 r4 la2 si!4 do2 r r4 sol8 sol sol4 sol r2 r4 re8 re mib4 fa sol8. sol16 sol4 r2 r4 sol8 sol lab4 sib lab8. lab16 lab4 r1 r4 do do sib
+       (la4.) sib8 la2 la4 r r2 r1 r4 la2 si!4 do2 r r4 sol8 sol sol4 sol r2 r4 re8 re mib4 fa sol8. sol16 sol4 r2 r4 sol8 sol lab4 sib lab8. lab16 lab4 r1 r4 do do sib
       % page 10 :
       lab4. lab8 sol4 r r1 r2 r8 do8 do sib  lab4 lab8 lab sol sol r4 r fa8 sol lab4 sol fa la!8 la sib4 la! r fa8 sol16 [la] sib4 la r fa8 sol16 [la] sib4 la r2 r4 fa8 fa fa2 fa4 r
       r4 fa8 fa fa8. fa16 fa4 sib8 sib r4 r2 r1 r1 sib4 sib8 sib la4 sib sib? la sib r r1 r1 r2 sib4 sib8 sib la [fa] fa4 fa2 fa fa4 r \fermata
       r2 r8 sol sol sol fad4 r r8 fad! fad sol16[ la] sol4 r r8 si! si do16[ re] do4 r r8 lab sol4 sol r r8 la la sib16[ do] sib4 r r8 sol fa4 fa r lab lab sol8 sol r4 sib sib la!8 la r4 r8 la la sib16[ do]
       sib?4 r r8 si si do16[ re] do4 r r8  mi, mi fa16[ sol] fa8 fa r4 r8 mi mi fa16[ sol] fa8 la re, sib' la2 la4 r r8 la la la la la r4 r8 la la la la la fa sib la2 la4 r r2 \bar "||" \tempo "Andante"  r1 r1
       r1 r r r r r r2 r8 sol sol sol fad fad r4 r8 fad fad fad sol sol r4 r8 sol sol sol sol sol r4 r sib
-      la4 r r la sib8 fa fa fa sib2 sol4. la16[ sol] fad8 re sol4 sol fad sol r r8 sib sib sib la la r4 r la la r r8 sol sol sol sol2 fad8[ re] sol2 fad4 sol r r2 r1 \bar "||"
+      la4 r r la sib8 fa fa fa sib2 sol4. la16[ sol] fad8 re sol4 (sol) fad sol r r8 sib sib sib la la r4 r la sol r r8 sol sol sol sol2 fad8[ re] sol2 fad4 sol r r2 r1 \bar "||"
     
     }
     \addlyrics {
@@ -52,7 +52,7 @@ me, et a pec -- ca -- to me -- o mun -- da me
 Quo -- ni -- am i -- ni -- qui -- ta -- tem me -- am e -- go co -- gno -- sco et pec -- ca -- tum me -- um con -- tra me est sem __ _ _  per.
 % mesure 70
 Ti -- bi so -- li pec -- ca -- vi, et mal -- um con -- tra te fe -- ci
-ut iu -- sti -- fi -- ce -- ris in ser -- mo -- ni -- bus tu -- is. et -- vin -- cas cum iu -- di -- ca __ _ _ _ ris 
+ut iu -- sti -- fi -- ce -- ris in ser -- mo -- ni -- bus tu -- is. et -- vin -- cas cum iu -- di -- ca __ _ _ ris 
 Ec __ _ ce, ec -- ce e -- nim in i -- ni -- qui -- ta -- ti -- bus, in -- i -- ni -- qui -- ta -- ti -- bus con -- ce __ _  
 _ ptus sum con -- ce -- pit me ma -- ter me -- a, ma -- ter me __ _ a. Ec -- ce e -- nim ve -- ri -- ta -- tem di -- le -- xi -- sti: Et oc -- cul -- ta
 sa -- pi -- en -- ti -- ae tu -- ae ma -- ni -- fe -- sta -- sti mi __ _ hi, ma -- ni -- fe -- sta __ _ sti mi -- hi.
@@ -61,7 +61,7 @@ A -- sper -- ges me, a -- sper -- ges me, a -- sper -- ges me hy -- so -- po, a 
 la -- va -- bis me, la -- va -- bis me et su -- per ni -- vem et su -- per ni -- vem de -- al -- ba -- bor
 et su -- per ni -- vem et su -- per ni -- vem de -- al -- ba -- bor
 % Mesure 139
-et e -- xul -- ta -- bunt, et e -- xul -- ta -- bunt, et e -- xul -- ta -- bunt os -- sa os -- sa hu -- mi -- li -- a __ _ _ _ _ _ _ _ ta
+et e -- xul -- ta -- bunt, et e -- xul -- ta -- bunt, et e -- xul -- ta -- bunt os -- sa os -- sa hu -- mi -- li -- a __ _ _ _ _ _ _ ta
 et e -- xul -- ta -- bunt os -- sa hu -- mi -- li -- a __ _ _ _ ta
 } 
 
