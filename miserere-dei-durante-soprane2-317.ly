@@ -93,7 +93,7 @@ be -- ni -- gne __ _ fac Do __ _ _ mi -- ne in bo -- na vo -- lun -- ta -- te tu
 be -- ni -- gne fac Do -- mi -- ne be -- ni -- gne __ _ _  fac Do __ _ _  mi -- ne 
 in bo -- na vo -- lun -- ta -- te tu -- a Si __ _ _ _ on
 
-et ae -- di -- fi -- cen -- tur mu -- ri Je -- ru -- sa -- lem
+ut ae -- di -- fi -- cen -- tur mu -- ri Je -- ru -- sa -- lem
 
 Sa -- cri -- fi -- ci -- um iu -- sti -- ti -- ae 
 o -- bla -- ti -- o -- nes et ho -- lo -- cau __ _ _ _ sta et ho -- lo -- cau __ _ _ sta.

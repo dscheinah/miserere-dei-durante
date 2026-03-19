@@ -87,7 +87,7 @@ Be -- ni -- gne fac Do __ _ _  mi -- ne in bo -- na vo -- lun -- ta -- te tu -- 
 be -- ni -- gne -- fac Do __ _ _ _ mi -- ne in bo -- na vo -- lun -- ta -- te tu -- a Si __ _ on
 
 be -- ni -- gne fac Do -- mi -- ne fac Do __ _  mi -- ne in bo -- na vo -- lun -- ta -- te tu -- a Si -- on
-et ae -- di -- fi -- cen -- tur mu -- ri Je -- ru -- sa -- lem
+ut ae -- di -- fi -- cen -- tur mu -- ri Je -- ru -- sa -- lem
 
 Tunc ac -- ce -- pta -- bis sa -- cri -- fi -- ci -- um iu -- sti -- ti -- ae 
 tunc ac -- ce -- pta -- bis o -- bla -- ti -- o __ _ nes 

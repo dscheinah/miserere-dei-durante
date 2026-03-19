@@ -94,7 +94,7 @@ be -- ni -- gne fac, Do -- mi -- ne
 be -- ni -- gne fac, Do -- mi -- ne 
 
 in bo -- na vo -- lun -- ta -- te tu -- a Si -- on
-et ae -- di -- fi -- cen -- tur mu -- ri Je -- ru -- sa -- lem
+ut ae -- di -- fi -- cen -- tur mu -- ri Je -- ru -- sa -- lem
 
 Tunc ac -- ce -- pta -- bis tunc ac -- ce -- pta -- bis tunc ac -- ce -- pta -- bis
 et ho -- lo -- cau __ _ _ _ _ sta.

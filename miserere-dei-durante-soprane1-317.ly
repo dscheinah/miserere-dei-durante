@@ -94,7 +94,7 @@ in bo -- na vo -- lun -- ta -- te tu -- a
 
 be -- ni -- gne fac Do -- mi -- ne in bo -- na vo -- lun -- ta -- te tu -- a Si __ _ _ _ on
 
-et ae -- di -- fi -- cen -- tur mu -- ri Je -- ru -- sa -- lem
+ut ae -- di -- fi -- cen -- tur mu -- ri Je -- ru -- sa -- lem
 
 Sa __ _ cri -- fi -- ci -- um iu -- sti -- ti -- ae 
 o -- bla -- ti -- o -- nes et ho -- lo -- cau __ _ _ sta et ho -- lo -- cau __ _ _ _ sta.
