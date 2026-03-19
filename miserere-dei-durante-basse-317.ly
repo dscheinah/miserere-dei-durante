@@ -75,7 +75,7 @@
     \addlyrics {
 % Mesure 317
 Quo -- ni -- am si vo -- luis -- ses sa -- cri -- fi -- ci -- um de -- dis -- sem u -- ti -- que
-Ho -- lo -- cau -- stis non de -- le -- cta __ _ be -- ris
+Ho -- lo -- cau -- stis non de -- le -- cta __ be -- ris
 Quo -- ni -- am si vo -- luis -- ses sa -- cri -- fi -- ci -- um de -- dis -- sem u -- ti -- que
 Ho -- lo -- cau -- stis non de -- le -- cta -- be -- ris
 
