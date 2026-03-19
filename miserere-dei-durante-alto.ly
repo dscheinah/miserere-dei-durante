@@ -17,7 +17,7 @@
       \set Staff.shortVocalName = \markup \smallCaps A
       \tempo "Lento"
       % page 1:
-      sol2 lab (lab4) sol8 [fa] sol2 (sol4) fa8 [mib] fa2 mib re4 r r1 r r r
+      sol2 lab (lab4) sol8 [fa] sol2 (sol4) fa8 [mib] fa4 fa4 mib2 re4 r r1 r r r
       r1 r2 sib' (sib4) la8 [sol]  la2 (la4)  sol8 [fad]  sol2 sol sol fad4 r r2 r1 r r r r r8 fad fad fad sol4 sol
       r8 sib sib si  do2 (fa,4) sib8 sib sib4 la sib r r2 r1 r8 do do do do4 sib lab la8 la re, [mib16 fa] sol4 sol8 sol sol sol lab4 sol fa8 [lab] sol4 fa sol lab la8 la sol2 sol4 r r2 \bar "||"
       \tempo "un poco andante"
@@ -39,7 +39,7 @@
     }
     \addlyrics {
 % page 1
-Mi -- se -- re -- re me -- i, De -- us
+Mi -- se -- _ re -- re me -- i, De -- us
 mi -- se -- re -- re me -- i, De -- us se -- cun -- dum
 ma -- gnam mi -- se -- ri -- cor -- di -- am tu __ _ am mi -- se  -- ri  -- cor __ _ _ di -- am tu __ _ am,
 mi -- se  -- ri  -- cor __ _ _ _ _ _ _ di -- am tu -- am

@@ -19,7 +19,7 @@
       \tempo "Lento"
       % page 1:
       r1 r r r mib2. re8 [do] re2. do8 [sib] do2 (do8) [re16 mib re8] do sib2 (sib8) [do16 sib la8] sol
-      fad4 sol8 [fad] sol [re'] mib [re16 do] sib4 la sol r r1 r r r2 sib (sib4) do8 [sib!] la2 (la4) sib8 [la] sol2 (sol8) [la16 sib] la8 [sol] fa2 fa8 [sol16 fa] mi8 [re] dod4 re (re8) [la'] sib [la16 sol] fa4 mi re r r2 
+      fad4 sol8 [fad] sol [re'] mib [re16 do] sib4 la sol r r1 r r r2 sib (sib4) do8 [sib!] la2 (la4) sib8 [la] sol2 (sol8) [la16 sib] la8 sol fa2 (fa8) [sol16 fa] mi8 [re] dod4 re (re8) [la'] sib [la16 sol] fa4 mi re r r2 
       r1 r2 r8 fa' fa mib re4 re r8 mib mib re do1 (do) (do4) mib8 mib re2 do4 r r2 r8 do do sib lab [fa'] mi!4 fa do 8 do do4 si! do r r2 \bar "||"
       \tempo "un poco andante"
       r1 r r2 re mib8 mib mib mib mib [fa16 mib re8 do] re re re re re [mib16 re do8] dod re4 re r2 r1 r2 dod re4 r re8 [si!] sol4
@@ -42,7 +42,7 @@
     \addlyrics {
 % Mesure 1
 Mi -- se re -- re me -- i, De __ _ _ _ _ _ _ _ us
-Mi -- se re -- re me __ _ _ _ _  i, De __ _ _ _ us
+Mi -- se re -- re me __ _ i, De __ _ _ _ _ _ _ us
 se -- cun -- dum ma -- gnam mi -- se -- ri -- cor -- di -- am tu -- am
 mi -- se -- ri -- cor __ _ _ di -- am tu __ _ am
 % Mesure 31
