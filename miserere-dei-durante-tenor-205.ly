@@ -11,7 +11,7 @@
   \new Staff { % Crée une seconde portée
 \override Score.BarNumber.break-visibility = ##(#t #t #t)
 %}
-    \new Voice = "A" \relative do' {
+    \new Voice = "T" \relative do' {
       \clef "G_8"
       \time 4/4
       \autoBeamOff

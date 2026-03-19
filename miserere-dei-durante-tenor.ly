@@ -10,7 +10,7 @@
 \score {
   \new Staff { % Crée une seconde portée
 %}
-    \new Voice = "A" \relative do' {
+    \new Voice = "T" \relative do' {
       \clef "G_8"
       \time 4/4
       \autoBeamOff
