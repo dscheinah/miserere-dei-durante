@@ -34,7 +34,7 @@
       r8 do! mi re do do r4 r sold8 [la si do re mi] fa2 mi4. fa8 re!2 do4 mi |
       mi2 re4 do si2 la4 r r8 si re do16 [si] do8 do r4 r sold8 [la si do re mi] \break
       
-      fa2 mi4. fa8 re2 dod?4 mi mi2 re4 dod? si2. re4 dod1 \fermata \bar "||"
+      fa2 mi4. fa8 re2 dod?4 mi mi2 re4 dod? si2. re4 dod1 \fermata \section
     }
   
     \addlyrics {

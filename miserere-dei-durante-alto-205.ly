@@ -23,11 +23,11 @@
       fa4 fa fa8. fa16 fa4 fa la sib8. sib16 do4 fa, fa r2 r4 sib sib8 sib16 sib la8 la  sib sib r fa mib8. mib16 mib8 re16[ do] re4 fa mib8 mib16 mib mib8 re16[ do] re8 re r sib' sib8. sib16 la8 la sib4 la sol8. sol16 sol8 sol fa4 r8 fa fa8. fa16 mi8 mi
       fa4 la8 la la la16 la la8. la16 sol4 do8 do do4 sib la la r2 r1 r4 fa sol8 la16 sib do8 sib? la fa sib4 sib la sib r8 sol fa4. fa8 mib4 r8 do'8 do4 si! do mib, fa8 [re] sol [sol,]
       do4 r r2 r4 sib'4 do8[ la] re[ re,] sol4 r r2 r4 do2 sib8[ la] sol sol sib2 la8[ sol] fad re r4 sol2( sol1() sol2) fad4 sol sol fad sol2 r4 fa! fa fa8 fa fa4 la sib do
-      fa,4 fa r fa fa mi8[ re] mi4. mi8 fa4 r r fa fa fa8 fa fa2( fa1() sol4) fa fa r r sol sol sol8 sol sol1( sol2) fa8[ lab] sol4 sol r \fermata  fa2
-      (fa4) fa8 fa fa4 r \fermata  sol2. sol8 sol sol4 r \fermata la2( la4) la8 la la4 la( la8) sol16[ fa] mi8 mi16 mi fa8 la4 sol8 la4 la4. sol16 fa mi8 mi fa la4 sol8 la4 r \fermata  r1 r4 la4. sib16[ la] sol8 fa16 mi fa8[ mi] re4 dod la'( la8) sib16[ la] sol8 fa16[ mi] fa8 mi re4
+      fa,4 fa r fa fa mi8[ re] mi4. mi8 fa4 r r fa fa fa8 fa fa2( fa1() sol4) fa fa r r sol sol sol8 sol sol1( sol2) fa8[ lab] sol4 sol r \fermata  fa2~ \section
+      fa4 fa8 fa fa4 r \fermata  sol2. sol8 sol sol4 r \fermata la2( la4) la8 la la4 la( la8) sol16[ fa] mi8 mi16 mi fa8 la4 sol8 la4 la4. sol16 fa mi8 mi fa la4 sol8 la4 r \fermata  r1 r4 la4. sib16[ la] sol8 fa16 mi fa8[ mi] re4 dod la'( la8) sib16[ la] sol8 fa16[ mi] fa8 mi re4
       %page 25
       dod4 r \fermata r2 r2 r4 r \fermata la' la8 la la4 la la la la la8 la la4 sol8 fa fa4 mi re r r2 r2 la'4 sol8[ fa] mi4 mi r2 r4 r8 la la4 sol8 fa mi4 mi r2 r la4 la8 la la4 la la la
-      la4 la8 la la4 sol8 fa fa4 mi re fa fa sol8 sol fa4 mi re r r2 \fermata \bar "||"
+      la4 la8 la la4 sol8 fa fa4 mi re fa fa sol8 sol fa4 mi re r r2 \fermata \section
 
 
       

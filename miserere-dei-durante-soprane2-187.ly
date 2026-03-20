@@ -22,7 +22,7 @@
       \tempo "Largo"
       % page 18:
       r1 do2 (do4.) si!8 do2 si4 r r2 do8 do do sib lab2 (lab16) [sib sib lab!] lab[ sol sol fad] sol2 (sol16) [ do do lab] lab [ sol sol fad] 
-      sol8 sol r16 si [do re] do8 si! r16 si [do re] do8 si r16 si [do] re do[ re mib8] (mib)[re16 do] do8 si r sib sib sib16 sib sib8 sib lab16. sol32 fa8 r lab! lab lab16 lab lab8 lab sol16. fa32 mib8 r4 r8 mib'16 do si!8 do16 do do8 si! r4 r8 sol16 sol lab8 si!16 si do[ sol lab fa] mib8[ re] do4 r8 sol' do do16 do do8 do si!16. la!32 sol8 r4 r8 sol16 sol lab8 si!16 si do2( do16) [ si! do8] r16 do[ re do] do4 \fermata si! do r r2 r1 \fermata \bar "||"
+      sol8 sol r16 si [do re] do8 si! r16 si [do re] do8 si r16 si [do] re do[ re mib8] (mib)[re16 do] do8 si r sib sib sib16 sib sib8 sib lab16. sol32 fa8 r lab! lab lab16 lab lab8 lab sol16. fa32 mib8 r4 r8 mib'16 do si!8 do16 do do8 si! r4 r8 sol16 sol lab8 si!16 si do[ sol lab fa] mib8[ re] do4 r8 sol' do do16 do do8 do si!16. la!32 sol8 r4 r8 sol16 sol lab8 si!16 si do2( do16) [ si! do8] r16 do[ re do] do4 \fermata si! do r r2 r1 \fermata \section
        \key do \major
     }
     

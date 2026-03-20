@@ -23,7 +23,7 @@
       % mesure 154 :
       r1 r2 sol fa mib4 r sib'2 lab sol4 sib8 sol16 mib sib'2( sib8) [do] la!4 sib sol8 fa | sol16[ lab] sib4 lab!16[ sol] sol8 fa r sib sol fa16 mib sol8 la! sib sib sib sib la4 lab sol do fa, sib( sib8) [la16 sol] la4 | sib r8 sib sib la r do | do sib r re re do do sib la la sib4( sib8) [la16 sol] la4 sib r r2
       r2 sib la sib4 r re2 do sib4 r r do8 la16 fa sib2  la4 la8 sib do4. sib16[ la] sib2( sib8) [la16 sib] do8 [sib] sib la r4 r r8 sib la sol16 fa la8 si do do do do do [sib16 la] sib4( sib8) [la16 sol] la4 lab2 sol8 [lab16 sol] fa4 mib r8 sol sol fa r lab lab sol r sib sib lab lab sol fa fa sol [fa16 mib]
-      fa2 mib4 r r2 r4 r8 si'! do4 (do16) [lab sol fa] sol2 (sol16) [lab sol fa] sol [lab! sol fa] solb2 \fermata fa mib4 r r1 r \bar "||"
+      fa2 mib4 r r2 r4 r8 si'! do4 (do16) [lab sol fa] sol2 (sol16) [lab sol fa] sol [lab! sol fa] solb2 \fermata fa mib4 r r1 r \section
     }
     \addlyrics {
 % Mesure 154

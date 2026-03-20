@@ -38,7 +38,7 @@
       r8 la do si la la r4 r mi8 [fad sold la si do] re4 sold, la la la sold la do |
       do2 si4 la la sold la r r8 sold si la16 [sold!] la8 la r4 r mi8 [fad sold la si do] \break
       
-      re4 sold, la la la8 [sold16 fad] sold!4 la dod dod?2 si4 la la sold8 [fad] sold!2 la1 \fermata \bar "||"
+      re4 sold, la la la8 [sold16 fad] sold!4 la dod dod?2 si4 la la sold8 [fad] sold!2 la1 \fermata \section
     }
     \addlyrics {
 % Mesure 271

@@ -27,7 +27,7 @@
      
       red4 mi fad mi si4. la8 sold2 r mi'4. mi8 mi2 r4 fad8 fad |
       fad? fad fad fad re4 si fad' r r fad8[ si,] dod4 fad fad mi8. mi16 fad4 r r2 |
-      r r4 fad8 fad fad4  fad8 fad fad4 re8 [si]  fad4. fad8 fad2 \bar "||"
+      r r4 fad8 fad fad4  fad8 fad fad4 re8 [si]  fad4. fad8 fad2 \section
        
      \tempo "Largo"
       r4^"[Solo]" si8 si si8. la16 la4 r la8 la la8. sol16 sol4 r8 sol sol sol sol4 fad r1 |
@@ -39,7 +39,7 @@
       r4 mi8 mi mi8. re16 re4 r8 re re re re4 dod r1 r
      
       r1 sib4--^"[Solo]" sib-- la-- la-- sol-- sol-- fa-- r mib'-- mib-- re-- re-- |
-      do-- do-- sib-- r r2 r4 do8^"[Tutti]" re mib4 re do4. do8 re1 \bar "||"
+      do-- do-- sib-- r r2 r4 do8^"[Tutti]" re mib4 re do4. do8 re1 \section
       \tempo "Andante"
       r1 r r2 r8 re do sib la sib do re mib4 fad
        
@@ -56,7 +56,7 @@
       (do) reb mi! fa mi!4 r r2 r r8 do do do
       
       do2 sib lab sol4 r r1 |
-      r2 r8 fa' fa fa mi!2 fa4 si,! do2 do \fermata \bar "||"
+      r2 r8 fa' fa fa mi!2 fa4 si,! do2 do \fermata \section
       \tempo "Andante"
       r1 r r r
        
@@ -70,7 +70,7 @@
       
       re4 mib re4. re8 do4 do8 do re4 re r8 do do do re4 re |
       r sol2 fa4 (fa) mib mib4. fa8 re4 mib re4. re8 |
-      do4 r r8 sol' fa mib re4 mib fa8 [ re] mib!4 re4. re8 do2\fermata \bar "|."
+      do4 r r8 sol' fa mib re4 mib fa8 [ re] mib!4 re4. re8 do2\fermata \fine
     }
     \addlyrics {
 % Mesure 317

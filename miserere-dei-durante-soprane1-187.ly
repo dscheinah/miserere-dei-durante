@@ -24,7 +24,7 @@
       \tempo "Largo"
       % page 18:
       r1 mib2 re8 [ mib16 fa mib8 re] mib2 re4 r sol8 sol sol fa mib2 (mib16) [ fa fa mib]  mib [ re re do] re2 ( re16) [ sol sol mib] mib [ re do si!] do2
-      si!8 si r16 re[ mib fa] mib8 re r16 re[ mib fa] mib8 re r16 re[ mib] fa mib[ fa sol8]( sol) [fa16 mib] mib8 re r sol mi! mi16 mi mi8 mi fa16. mi!32 fa8 r fa re re16 re re8 re mib?16. re32 mib8 r sol16 do, si!8 do16 do re8[ mib] mib re r sol,16 sol lab8 si!16 si do8 [re] mib [ fa16 re] do8[ si!] do4 r8 do fad fad16 fad fad8 fad sol16. fad!32 sol8 r  sol,16 sol lab8 si!16 si do8[ re] mib2( mib16) [re mib8] r16 mib[ fa mib] mib4 \fermata re do r r2 r1 \fermata \bar "||"
+      si!8 si r16 re[ mib fa] mib8 re r16 re[ mib fa] mib8 re r16 re[ mib] fa mib[ fa sol8]( sol) [fa16 mib] mib8 re r sol mi! mi16 mi mi8 mi fa16. mi!32 fa8 r fa re re16 re re8 re mib?16. re32 mib8 r sol16 do, si!8 do16 do re8[ mib] mib re r sol,16 sol lab8 si!16 si do8 [re] mib [ fa16 re] do8[ si!] do4 r8 do fad fad16 fad fad8 fad sol16. fad!32 sol8 r  sol,16 sol lab8 si!16 si do8[ re] mib2( mib16) [re mib8] r16 mib[ fa mib] mib4 \fermata re do r r2 r1 \fermata \section
       \key do \major
     }
     \addlyrics {

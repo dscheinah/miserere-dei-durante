@@ -25,11 +25,11 @@
        sib4 sib sib8. sib16 sib4 la fa sol8. sol16 la4 sib sib r2 r1 r r4 sib, do8 re16 mib fa8 mib? re sib r sib' fa8. fa16 fa8 fa sib,4 fa' sol8 la16 sib do8 sib la fa r la sib8. sib16 do8 do,
        fa4 r r2 r1 r4 fa sol8 la16 sib do8 sib la fa sib4 sib la sib la sib8[ sol] do[ do,] fa4 r r2 r4 sol lab8[ fa] sib[ sib,?] mib4 r r2 r4 do re8 mib16 fa sol8 fa
        mib8 do do'4 do si! do r r2 r4 sol la8 sib16 do re8 do sib sol do4 fad,2 sol4 r r2 r4 re mib re do re mib re do dod re sol re4. re8 sol2 r4 sib sib sib8 sib
-       la4 fa sol la sib sib r sib! sol2. sol4 fa r r fa sib la8 fa sib? [sib la fa] sib [sib la fa] sib4 re, mib fa sib, r r sol' do si!8 sol do [do si! sol] do [do si! sol] do4 mib, fa sol do, r \fermata \tempo "Largo"  r2 \bar "||"
+       la4 fa sol la sib sib r sib! sol2. sol4 fa r r fa sib la8 fa sib? [sib la fa] sib [sib la fa] sib4 re, mib fa sib, r r sol' do si!8 sol do [do si! sol] do [do si! sol] do4 mib, fa sol do, r \fermata \tempo "Largo"  r2 \section
       
        r1 \fermata  r r r r r r \fermata  r r r r 
        r4 r \fermata  r2 r r4 r \fermata  re' re8 re la4 la re re la la8 la re4 sol,8 sol la4 la, re r sib' sib8 sib la4 la r2 r sib4 sib8 sib la4 la r2 r sib4 sib8 sib la4 la re re8 re la4 la re re 
-        la4 la8 la re4 sol,8 sol la4 la, re re' sib sol8 sol la2 re,4 r r2 \fermata \bar "||"
+        la4 la8 la re4 sol,8 sol la4 la, re re' sib sol8 sol la2 re,4 r r2 \fermata \section
     }
     \addlyrics {
 Ne pro -- i -- ci -- as me a fa -- ci -- e tu -- a

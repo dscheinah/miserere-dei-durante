@@ -23,11 +23,11 @@
        r1 r r4 re do8 re16 mib fa8 mib! re re r sib do8. do16 do8 do sib4 r8 sib sib8. sib16 la8 la sib4 r r2 r4 sib do8 re16 mib fa8 mib re re r fa fa8. fa16 mi!8 mi fa4 do re8. re16 do8 do
        do4 r r2 r1 r4 fa fa8 fa16 fa mi!8 mi fa fa re4 do4. do8 sib4 r r2 r1 r4 mib fa8 mib16 fa sib,8 lab' sol mib r mib re4. re8 do4 r r2
        r1 r4 sol la8 sib16 do re8 do sib sol sol'4 sol fad sol r r2 r1 r2 sol ( sol4.) fad8 sol4. fad8 sol4 sol, re2 re'4. do8 si!2 r1 r
-       r4 fa' re2  sib2.  do8[ sib] la4 r r do re mib8 mib re4 mib re mib re fa8[ sib,] do2 sib4 r r re mib fa8 fa mib4 fa mib fa mib4. fa16[ mib] re4 sol, sol r \fermata  \tempo "Largo" r2  \bar "||"
+       r4 fa' re2  sib2.  do8[ sib] la4 r r do re mib8 mib re4 mib re mib re fa8[ sib,] do2 sib4 r r re mib fa8 fa mib4 fa mib fa mib4. fa16[ mib] re4 sol, sol r \fermata  \tempo "Largo" r2  \section
      
        mib'4 mib8 mib re4 r \fermata   r2 fa4 fa8 fa mi4 r \fermata  r2 sol4 sol8 sol fa4 r r1 r r \fermata do2 si?4. si8 la4 r r2 r1 r
        r4 r \fermata fa'2 mi4. mi8 re4 r \fermata re4 re8 re dod4 dod re re dod dod8 dod re4 sib8 sib la2 la4 r re re8 re dod4 dod r2 r re4 re8 re dod4 dod r2 r re4 re8 re dod4 dod la la8 la dod4 dod la la
-       dod4 dod8 la fa'4 mi8 re re4 dod re re re sib8 sib la2 la4 r r2 \fermata \bar "||"
+       dod4 dod8 la fa'4 mi8 re re4 dod re re re sib8 sib la2 la4 r r2 \fermata \section
     }
     \addlyrics {
 % Mesure 205

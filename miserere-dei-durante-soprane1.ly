@@ -20,23 +20,23 @@
       % page 1:
       r1 r r r mib2. re8 [do] re2. do8 [sib] do2 (do8) [re16 mib re8] do sib2 (sib8) [do16 sib la8] sol
       fad4 sol8 [fad] sol [re'] mib [re16 do] sib4 la sol r r1 r r r2 sib (sib4) do8 [sib!] la2 (la4) sib8 [la] sol2 (sol8) [la16 sib] la8 sol fa2 (fa8) [sol16 fa] mi8 [re] dod4 re (re8) [la'] sib [la16 sol] fa4 mi re r r2 
-      r1 r2 r8 fa' fa mib re4 re r8 mib mib re do1 (do) (do4) mib8 mib re2 do4 r r2 r8 do do sib lab [fa'] mi!4 fa do 8 do do4 si! do r r2 \bar "||"
+      r1 r2 r8 fa' fa mib re4 re r8 mib mib re do1 (do) (do4) mib8 mib re2 do4 r r2 r8 do do sib lab [fa'] mi!4 fa do 8 do do4 si! do r r2 \section
       \tempo "un poco andante"
       r1 r r2 re mib8 mib mib mib mib [fa16 mib re8 do] re re re re re [mib16 re do8] dod re4 re r2 r1 r2 dod re4 r re8 [si!] sol4
       % page 5 :
       r2 do8 [la] fa4 r8 re' re re re4 do re la sib do sib la sol r r2 sib4. sib8 la la [sib] do sib4 r r2 sol'4. sol8 fad4 re8 do sib4 r r2 sol'8 sol8 dod, dod re4 re mib2
       re4 r4 r2 r8 re8 re re re4 do sib la sib!2 la4. la8 sol si! si si do4 re do re r si (do) re sol, do2 si4 do8 sol' sol sol sol4 fa fa mib re4. re8
-      do4 r r2 r4 do re fa mi!1 \bar "||" \tempo "Largo" do4.^"[Solo]" do8 si si do re do4 si do2 si8 mi mi re do2 si4 si8^"[Tutti]" si si4 do si si r si8 si si4 do si mi8 [re] do4 si la r
+      do4 r r2 r4 do re fa mi!1 \section \tempo "Largo" do4.^"[Solo]" do8 si si do re do4 si do2 si8 mi mi re do2 si4 si8^"[Tutti]" si si4 do si si r si8 si si4 do si mi8 [re] do4 si la r
       r1 r r r2 r4 mi'8^"[Tutti]" re dod4 fa mi mi r mi8 re dod4 fa8 fa mi4 mi r2 r1 r r r4 mi^"[Tutti]" mi re r8 mi mi mi mi4 re
       dod8 [la] re [sol] fa [mi16 re] mi4^tr re4 r r2 re1 do2 r r4 mib2 (mib4) re2 r r4 sol8 fa mib4 re r2 r4 sol8 fa mib4 re do8. do16 do4 r2 r4 do reb mi! fa4. fa8 mi!4 r r2
       % page 10 :
      r2 r8 do do do reb2 mi! fa mi!4 r r2 r8 mi fa sol do,4 reb8 reb do2 do4 r r do8 do reb4 reb r4 do8 do reb4 reb r do8 do reb4 reb r reb!8 reb mib2 reb4 r
-     r4 reb8 reb mib8. mib16  mib4 reb8 reb r4 solb2 fa4. sib8 mib,4. mib8 reb2 do sib4 r r2 r1 solb'2 fa4. sib?8 mib,4. mib8 reb2 do2 sib4 r r8 la la la sib4 sib sib?8 [la16 sol] la4 sib! r \fermata \bar "|."
+     r4 reb8 reb mib8. mib16  mib4 reb8 reb r4 solb2 fa4. sib8 mib,4. mib8 reb2 do sib4 r r2 r1 solb'2 fa4. sib?8 mib,4. mib8 reb2 do2 sib4 r r8 la la la sib4 sib sib?8 [la16 sol] la4 sib! r \fermata \section
      \tempo "Largo"
      r2 r8 re re sib16 [do] re4 r r8 do do sib16 [la] sib4 r r8 fa' fa mib16 [re] mib4 r r8 fa  mib! [re] do4 r r8 mib mib re16 [do] re4 r r8 mib re [do] sib4 r r2 r1 r2 r8 mib mib re16 [do]
-     re4 r r8 fa8 fa mi!16 [re] mi4 r r8 sol sol fa16 [mi] fa8 fa r4 r8 sol sol fa16 [mi] fa8 mi re sol fa4 mi re r r8 mi mi fa16 [sol] fa8 fa r4 r8 mi mi fa16 [sol] fa8 mi re re re4 dod re r r2 \bar "||" \tempo "Andante"  r2 r8 re re do16 sib la2 (la8) [sib? do sib16 la]
+     re4 r r8 fa8 fa mi!16 [re] mi4 r r8 sol sol fa16 [mi] fa8 fa r4 r8 sol sol fa16 [mi] fa8 mi re sol fa4 mi re r r8 mi mi fa16 [sol] fa8 fa r4 r8 mi mi fa16 [sol] fa8 mi re re re4 dod re r r2 \section \tempo "Andante"  r2 r8 re re do16 sib la2 (la8) [sib? do sib16 la]
      sib8 sib r4 r sol'8 fa mi! mi r4 r mi!8 mi fa16 fa fa8 r4 r8 fa fa mib re re r4 r re (re8) do16 sib do8 do re [re do sib!16 la] sib8 [do re do16 sib] sib4 la r2 r8 re sib sol la la r4 r8 re re do sib sib r4 r8 re re re mi! mi r4 r mi! 
-     fa4 r r mib re r r8 re re re re [do16 si] la8 [sol] re' [do sib sol'] sib,4  la sol r r8 sol' sol sol fad re r4 r do sib r r8 re re re re [do] sib [la16 sol] re'8 [do sib sol'] sib,!4  la sol r r2 r1 \bar "||"
+     fa4 r r mib re r r8 re re re re [do16 si] la8 [sol] re' [do sib sol'] sib,4  la sol r r8 sol' sol sol fad re r4 r do sib r r8 re re re re [do] sib [la16 sol] re'8 [do sib sol'] sib,!4  la sol r r2 r1 \section
      
     }
     \addlyrics {

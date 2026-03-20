@@ -26,7 +26,7 @@
       
       la4 sol fad sol fad?4. fad8 mi2 r la4. la8 la2 r4 lad8 lad |
       lad? lad lad lad si4. si8 lad4 r r si lad fad sol4. sol8 fad?4 r r si8 si |
-      si4 si8 si lad4 si dod? si lad si( si8)[ lad16 sold] lad!8. lad16 si2 \bar "||"
+      si4 si8 si lad4 si dod? si lad si( si8)[ lad16 sold] lad!8. lad16 si2 \section
      
      \tempo "Largo"
       r1 r r r4^"[Solo]"  fad8 fad sol2 |
@@ -38,7 +38,7 @@
       r4 sol8 sol sol8. fa16 fa4 r8 fa fa fa fa4 mi r4^"[Solo]" mi8 mi fa2 mi4 r dod8 dod dod dod
       
       re2 dod4 r r1 r1 r1 |
-      r2 r4 re'8^"[Tutti]" do sib4 sib la2 (la4) sib fa4. fa8 fa1 \bar "||"
+      r2 r4 re'8^"[Tutti]" do sib4 sib la2 (la4) sib fa4. fa8 fa1 \section
       r4 sib la re r sol, fa sib( sib8)[ la16 sol] la8. la16 sib!4 r r1
       
       r1 r r r2 r4 r8 sib |
@@ -54,7 +54,7 @@
       lab1 sol4 sol fa si,! do r8 sol' lab4 lab sol sol r8 lab lab lab
       
       lab?2. sol4 fa2 mi!4 r r2 r8 sib'8 sib lab |
-      sol4 lab2 si!4 do2 lab4 fa sol2 sol \fermata \bar "||"
+      sol4 lab2 si!4 do2 lab4 fa sol2 sol \fermata \section
       \tempo "Andante"
       r1 r r r2 do,4. do8
       
@@ -68,7 +68,7 @@
       
       sol8 sol sol sol sol4 sol sol sol8 sol sol4 sol r8 sol sol sol sol4 re |
       mib2 fa sol lab4 lab sol sol sol4. sol8 |
-      sol4 r r2 r8 sol sol sol sol sol do, do sol'4. fa!8 mi!2 \fermata \bar "|."
+      sol4 r r2 r8 sol sol sol sol sol do, do sol'4. fa!8 mi!2 \fermata \fine
     }
     \addlyrics {
 % Mesure 317
