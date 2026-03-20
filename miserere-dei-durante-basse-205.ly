@@ -27,7 +27,7 @@
        mib8 do do'4 do si! do r r2 r4 sol la8 sib16 do re8 do sib sol do4 fad,2 sol4 r r2 r4 re mib re do re mib re do dod re sol re4. re8 sol2 r4 sib sib sib8 sib
        la4 fa sol la sib sib r sib! sol2. sol4 fa r r fa sib la8 fa sib? [sib la fa] sib [sib la fa] sib4 re, mib fa sib, r r sol' do si!8 sol do [do si! sol] do [do si! sol] do4 mib, fa sol do, r \fermata \tempo "Largo"  r2 \section
       
-       r1 \fermata  r r r r r r \fermata  r r r r 
+       r1 \fermata  r r \fermata r r r r \fermata  r r r r 
        r4 r \fermata  r2 r r4 r \fermata  re' re8 re la4 la re re la la8 la re4 sol,8 sol la4 la, re r sib' sib8 sib la4 la r2 r sib4 sib8 sib la4 la r2 r sib4 sib8 sib la4 la re re8 re la4 la re re 
         la4 la8 la re4 sol,8 sol la4 la, re re' sib sol8 sol la2 re,4 r r2 \fermata \section
     }
